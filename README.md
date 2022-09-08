@@ -1,5 +1,5 @@
-# [OnkgopotseTest - README](https://github.com/olenake/OnkgopotseTest/README)
+# [OnkgopotseTest (OFLenake.README)](https://github.com/oflenake/OnkgopotseTest)
 
-[ProjectREADME](https://github.com/olenake/OnkgopotseTest/README.md/) is an overview of the OnkgopotseTest project, created by [Onkgopotse Lenake](https://onkgopotselenake.me/).
+[OFLenake.README](https://github.com/oflenake/OnkgopotseTest/blob/master/README.md) is an overview of the OnkgopotseTest project, created by [Onkgopotse Lenake](https://onkgopotselenake.me/).
 
 ## Preview
